@@ -1,0 +1,12 @@
+start
+next
+step
+step
+step
+print password
+finish
+step
+next
+print check_length
+print length
+quit
